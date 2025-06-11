@@ -2,6 +2,10 @@
 
 The official implementation of [DiscoVLA](https://arxiv.org/abs/2506.08887).
 
+If you find this project helpful, you might also be interested in our previous work:
+
+> [**ICLR 2025**] **TempMe**: Video Temporal Token Merging for Efficient Text-Video Retrieval [[Code]](https://github.com/LunarShen/TempMe) [[Paper]](https://arxiv.org/abs/2409.01156)
+
 ## Dataset
 Prepare the dataset by following the instructions from [CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip/).
 
