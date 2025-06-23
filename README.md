@@ -1,6 +1,6 @@
 # [CVPR 2025] DiscoVLA: Discrepancy Reduction in Vision, Language, and Alignment for Parameter-Efficient Video-Text Retrieval
 
-The official implementation of [DiscoVLA](https://arxiv.org/abs/2506.08887).
+The official implementation of DiscoVLA [[Paper]](https://arxiv.org/abs/2506.08887).
 
 If you find this project helpful, you might also be interested in our previous work:
 
@@ -25,7 +25,7 @@ wget https://www.robots.ox.ac.uk/~maxbain/frozen-in-time/data/MSRVTT.zip
 
 ## Train 
 
-Please download the Pseudo Image Captions of MSRVTT from [here](https://pan.baidu.com/s/1c4MOV6_XZVKn_Cu79ZyvFw?pwd=py7q). For more details, please refer to our paper.
+Please download the Pseudo Image Captions of MSRVTT from [Baidu Cloud](https://pan.baidu.com/s/1c4MOV6_XZVKn_Cu79ZyvFw?pwd=py7q) or [Hugging Face](https://huggingface.co/datasets/LeqiShen/DiscoVLA). For more details, please refer to our paper.
 
 We conduct experiments on 4 A100x40G GPUs on MSRVTT. To set up the environment and run the experiments, execute the following commands:
 
@@ -36,7 +36,7 @@ bash scripts/MSRVTT.sh
 
 ## Acknowledgement
 
-This project builds upon the following open-source works: **[DRL](https://github.com/foolwood/DRL)**.
+This project builds upon the following open-source works: [DRL](https://github.com/foolwood/DRL).
 
 ## Citation
 
